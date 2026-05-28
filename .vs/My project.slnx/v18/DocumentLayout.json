@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\plw20\\My project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\plw20\\my project\\assets\\free wood door pack\\script\\newemptycsharpscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\free wood door pack\\script\\newemptycsharpscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\plw20\\my project\\assets\\free wood door pack\\script\\door opener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\free wood door pack\\script\\door opener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NewEmptyCSharpScript.cs",
+              "DocumentMoniker": "C:\\Users\\plw20\\My project\\Assets\\Free Wood Door Pack\\Script\\NewEmptyCSharpScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Free Wood Door Pack\\Script\\NewEmptyCSharpScript.cs",
+              "ToolTip": "C:\\Users\\plw20\\My project\\Assets\\Free Wood Door Pack\\Script\\NewEmptyCSharpScript.cs",
+              "RelativeToolTip": "Assets\\Free Wood Door Pack\\Script\\NewEmptyCSharpScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:17:30.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Door Opener.cs",
               "DocumentMoniker": "C:\\Users\\plw20\\My project\\Assets\\Free Wood Door Pack\\Script\\Door Opener.cs",
               "RelativeDocumentMoniker": "Assets\\Free Wood Door Pack\\Script\\Door Opener.cs",
               "ToolTip": "C:\\Users\\plw20\\My project\\Assets\\Free Wood Door Pack\\Script\\Door Opener.cs",
               "RelativeToolTip": "Assets\\Free Wood Door Pack\\Script\\Door Opener.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswCsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T08:54:53.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player Steuerung.cs",
               "DocumentMoniker": "C:\\Users\\plw20\\My project\\Assets\\Scripts\\Player Steuerung.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player Steuerung.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player Steuerung.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwDIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T09:54:59.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T09:54:59.647Z"
             }
           ]
         }
